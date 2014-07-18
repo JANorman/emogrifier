@@ -1,6 +1,6 @@
 {
-    "name": "pelago/emogrifier",
-    "description": "Converts CSS styles into inline style attributes in your HTML code",
+    "name": "janormman/emogrifier",
+    "description": "Copy of pelagios emogrifier. Converts CSS styles into inline style attributes in your HTML code",
     "tags": ["email", "css", "pre-processing"],
     "license": "MIT",
     "homepage": "http://www.pelagodesign.com/sidecar/emogrifier/",

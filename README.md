@@ -1,5 +1,7 @@
 # Emogrifier
 
+Clone of the original library....
+
 [![Build Status](https://travis-ci.org/jjriv/emogrifier.png?branch=master)](https://travis-ci.org/jjriv/emogrifier)
 [![Latest Stable Version](https://poser.pugx.org/pelago/emogrifier/v/stable.png)](https://packagist.org/packages/pelago/emogrifier)
 [![Total Downloads](https://poser.pugx.org/pelago/emogrifier/downloads.png)](https://packagist.org/packages/pelago/emogrifier)
